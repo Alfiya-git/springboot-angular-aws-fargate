@@ -2,7 +2,7 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://18.222.48.48/springbootdb?allowPublicKeyRetrieval=true&useSSL=false
+    url: jdbc:mysql://18.222.172.19/springbootdb?allowPublicKeyRetrieval=true&useSSL=false
     username: root
     password: admin123
     hikari:
